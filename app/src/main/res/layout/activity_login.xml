@@ -1,0 +1,53 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+
+             tools:context="com.stef.android.marvel.activities.LoginActivity">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        >
+
+
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+            android:background="@mipmap/marvellogo"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+
+            android:id="@+id/imageView"/>
+
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btn_signup_fb"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+
+            android:paddingStart="10dp"
+            android:paddingEnd="20dp"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:drawableLeft="@mipmap/ic_facebook"
+            android:background="@drawable/facebook_btn"
+            android:text="Iniciar session"
+            android:layout_below="@+id/imageView"
+            />
+
+
+    </RelativeLayout>
+
+
+
+
+</FrameLayout>

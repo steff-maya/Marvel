@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_36897c29fa840ffda17621e6340d653afb2b2592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_17dc1dac4a82250b25c69d83a3978fb8cd52f5b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_94a49d6c13a03301c4ceb861601aea8bebc6d6ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/okio-1.8.0_bcd3144062c15b99e0eae2bcd6edafcaaf3871f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.2_12924c6788a56a6f16fdfd1bd854d91f79b35efb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_90a327fd083fa6b51812f8f0f6cc964c051c21b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c0ae0dbaa99a5e5493ecd7310ffd1ee9f6f51567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/glide-3.7.0_d1669abd63ec341fd0824a565b092b715d6eebb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/gson-2.6.1_99b0666c4555ba7c30f612954eea1e6d81d2114b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_2c651008ac23c68d568babac5bdfb8cf9acddd3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_e6b403b71bfd2f5a1632a6fb2e3fd85897762b2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.0.0_224f22164a3a63f27bf0ea719358b13d18f707f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_68d74da7d285e4860451148980bd03215e187a37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.1_f464d30f79056affe841db81fbd7625f20f58e10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_ad28f90cb6bdf179c849221b042260bd0fcbda1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_76d31ca36cce07349b9a5bad94766d38e281cf0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.13/3c304d70f42f832e0a86d45bd437f692129299a4/jackson-core-asl-1.9.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c304d70f42f832e0a86d45bd437f692129299a4">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.13_f10a28f77245c308c295465be3ae09607015f3e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.13/1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7/jackson-mapper-asl-1.9.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.9.13_6e72c4d094e10ed486e5443be588a77d3fd6e8d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_cf01a8346f593b523c795573c4a40e8715ea451d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_a14817b7453742f401c03709485660ffdaf27604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/io.realm/realm-android-library/2.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="205155180b7747a96c076484ba0014e4bcacb33d">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-2.3.1_4983550638e37457c0e801e67eaf9da52a1861c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/2.3.1/1c1c75a7e1dfee58c51822987dc658f93e036c81/realm-annotations-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c1c75a7e1dfee58c51822987dc658f93e036c81">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/realm-annotations-2.3.1_f8215ddb98f93d5495050582f0ef1de435f50080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_e708c706bf070665a530c323572fada063d6a67b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.5.1_47c19c8aa0337b553b918849178a27d3c8782ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_94c7fb0440d7b5740028131d8300edc9e2983803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_0609b322ede69ac3f699441095f23cc4969843d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_3267cd20041403f1c613fc29402a6af45d9c0581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_64682074c3e074320126a8ee1b55100ae1a15346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_cdf05a9224aac5425507656a55519931b5c6707f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5cbc9214ee567ea6ef56fb2707d48e58d240fc2">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.22.1_2f0b9473eb293e971ca9e83d1c266d421cf89c18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_37c7cee576f862f3a2542a732c7efce84dba3440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_4e75c7df53e59faca8ef52f6a0f383a5811ee8c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_78d30f9fc42955fa99e4910771954d053d5931b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/Irene/AndroidStudioProjects/Marvel/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_33b0ac51724da32376e55d2c129e252cc9b81cf0.jar" />
+    </item>
+
+</items>

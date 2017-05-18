@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Marvel</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="facebook_app_id">380881605632003</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Tittle :</string>
+    <string name="page">Total pages:</string>
+    <string name="date">Modified</string>
+    <string name="description">Description</string>
+    <string name="creators">creators</string>
+    <string name="stories">stories</string>
+    <string name="characters">characters</string>
+    <string name="empty_data">No hay data Disponible</string>
+    <string name="no_fav">No tienes favoritos  guardados</string>
+</resources>
